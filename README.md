@@ -1,6 +1,7 @@
 # identity.txt
 Server configuration file to instruct password managers how to best create and update accounts/credentials
 
+## Introduction
 Account security is a constant challenge for both apps/services needing stronger protections for their users' data and for users trying to reasonably manage an ever-growing account keychain with each service setting arbitrary authentication rules. In the middle sit a suite of Password or Keychain Managers, such as 1Password, LastPass, Dashlane, Authy, Google Password Manager, Microsoft Autofill, and iCloud Keychain. 
 
 In the model of the [Robots Exclusion Protocol](https://www.rfc-editor.org/rfc/rfc9309.html), identity.txt is a standard for machine-readable server-hosted text file to:
@@ -18,3 +19,18 @@ At minimum, such a standard enables Password/Keychain Managers to identify the a
 * creation link
 * 'Sign In with' providers
 
+## Specification
+
+
+
+## Examples
+
+
+
+## References
+* Robots.txt documentation
+  * https://developers.google.com/search/docs/crawling-indexing/robots/intro
+  * https://www.rfc-editor.org/rfc/rfc9309.html
+  * https://moz.com/learn/seo/robotstxt
+* Identity and Authentication documentation
+  * 
